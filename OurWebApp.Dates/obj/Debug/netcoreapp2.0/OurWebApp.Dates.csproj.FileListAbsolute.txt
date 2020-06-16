@@ -1,0 +1,17 @@
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.deps.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csprojResolveAssemblyReference.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csproj.CoreCompileInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfoInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfo.cs
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.deps.json
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csprojAssemblyReference.cache
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfoInputs.cache
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfo.cs
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+D:\AZ-204\WebDeployment\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.pdb

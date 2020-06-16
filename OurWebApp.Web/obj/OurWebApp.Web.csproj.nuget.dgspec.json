@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Web\\OurWebApp.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+        "projectName": "OurWebApp.Dates",
+        "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+        "packagesPath": "C:\\Users\\10644352\\.nuget\\packages\\",
+        "outputPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\10644352\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Web\\OurWebApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Web\\OurWebApp.Web.csproj",
+        "projectName": "OurWebApp.Web",
+        "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Web\\OurWebApp.Web.csproj",
+        "packagesPath": "C:\\Users\\10644352\\.nuget\\packages\\",
+        "outputPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\10644352\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+                "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
