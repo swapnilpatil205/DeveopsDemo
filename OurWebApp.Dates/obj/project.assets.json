@@ -669,11 +669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+      "projectUniqueName": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
       "projectName": "OurWebApp.Dates",
-      "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+      "projectPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
       "packagesPath": "C:\\Users\\10644352\\.nuget\\packages\\",
-      "outputPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\obj\\",
+      "outputPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\10644352\\AppData\\Roaming\\NuGet\\NuGet.Config",

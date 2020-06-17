@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj": {}
+    "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj": {}
   },
   "projects": {
-    "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+    "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+        "projectUniqueName": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
         "projectName": "OurWebApp.Dates",
-        "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+        "projectPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
         "packagesPath": "C:\\Users\\10644352\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\obj\\",
+        "outputPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\10644352\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj": {
+    "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
+        "projectUniqueName": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
         "projectName": "OurWebApp.Dates.Tests",
-        "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
+        "projectPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
         "packagesPath": "C:\\Users\\10644352\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Tests\\obj\\",
+        "outputPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\10644352\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.0": {
             "projectReferences": {
-              "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
-                "projectPath": "D:\\AZ-204\\WebDeployment\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
+              "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+                "projectPath": "D:\\AZ-204\\WebDeployment\\github\\devops\\DeveopsDemo\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
               }
             }
           }
